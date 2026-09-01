@@ -1,0 +1,6 @@
+{
+  "name": "TrendEEAT - Trends to EEAT Article Generator",
+  "description": "Riset pencarian Google Trends netizen, filter kueri organik terbanyak, bangun pertanyaan logis, dan hasilkan artikel komprehensif berstandar Google E-E-A-T.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
